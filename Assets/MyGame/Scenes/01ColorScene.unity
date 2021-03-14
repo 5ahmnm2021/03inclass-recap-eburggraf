@@ -200,7 +200,7 @@ GameObject:
   - component: {fileID: 940079143}
   - component: {fileID: 940079142}
   m_Layer: 0
-  m_Name: Controller
+  m_Name: SceneController
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -634,7 +634,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 940079142}
         m_TargetAssemblyTypeName: Controller, Assembly-CSharp
-        m_MethodName: ChangeToNumberScene
+        m_MethodName: LoadNextSceneAutomated
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
