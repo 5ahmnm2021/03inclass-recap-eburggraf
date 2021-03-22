@@ -25,7 +25,6 @@ Scenes have to be added in the Buildsettings under "Scenes in Build"
 
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
 
 ### Project state: 
 100%
